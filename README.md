@@ -1,5 +1,5 @@
 # Kafka Learning Path
-Kafka repository is an educational project for person developer community.
+Kafka repository is an educational project for persion developer community.
 
 You can follow Video Series in [Youtube](https://youtube.com/playlist?list=PLKmjtHAd1JMe3F-Q9j4UY9qVWwT9HGM05)
 ## What is Kafka? ([Kafka official document](https://kafka.apache.org/documentation/))
